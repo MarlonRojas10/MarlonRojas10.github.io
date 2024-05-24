@@ -1,0 +1,8 @@
+.page {
+  background-color: black;
+}
+@media screen and (max-width: 320px) {
+  .page {
+    padding: 0;
+  }
+}
